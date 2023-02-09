@@ -1,12 +1,10 @@
-  Loading Data of November Month in ADF Using Python Code.
+Loading Data of November Month in ADF Using Python Code.  
+  * Go to PYthon Code >> Change OutblobName As "it_security_vulns_since_state_Dec2022.csv" to "it_security_vulns_since_state_Nov2022.csv"
   
-    Go to PYthon Code >> Change OutblobName As "it_security_vulns_since_state_Dec2022.csv" to "it_security_vulns_since_state_Nov2022.csv"
-  
-  How to Import One table coluns to another columns Using select statment.
-  
-  INSERT INTO table2 (column1, column2, column3, ...)
-  SELECT column1, column2, column3, ...
-  FROM table1
+How to Import One table coluns to another columns Using select statment.  
+   * INSERT INTO table2 (column1, column2, column3, ...)
+     SELECT column1, column2, column3, ...
+     FROM table1
   
   
   
